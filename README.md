@@ -17,6 +17,6 @@ Classification of leukemic B-lymphoblast cells from normal B-lymphoid precursors
 3 - Check "classifiers/" folder.\
 
 **References and credits**:\
-[1] José Elwyslan Maurício de Oliveira, and Daniel Oliveira Dantas, "Classification of Normal versus Leukemic Cells with Data Augmentation and Convolutional Neural Networks". 16th International Conference on Computer Vision Theory and Applications (VISAPP), 2021, pages 685-692. DOI: https://doi.org/10.5220/0010257406850692\
+[1] José Elwyslan Maurício de Oliveira, and Daniel Oliveira Dantas, "Classification of Normal versus Leukemic Cells with Data Augmentation and Convolutional Neural Networks". 16th International Conference on Computer Vision Theory and Applications (VISAPP), 2021, pages 685-692. DOI: https://doi.org/10.5220/0010257406850692 \
 [2] Anubha Gupta, Rahul Duggal, Ritu Gupta, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, “GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images,” under review.\
 [3] Ritu Gupta, Pramit Mallick, Rahul Duggal, Anubha Gupta, and Ojaswa Sharma, "Stain Color Normalization and Segmentation of Plasma Cells in Microscopic Images as a Prelude to Development of Computer Assisted Automated Disease Diagnostic Tool in Multiple Myeloma," 16th International Myeloma Workshop (IMW), India, March 2017.\
